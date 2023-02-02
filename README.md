@@ -1,1 +1,3 @@
-# mahathi333_icp4
+Neural Networks Assignment 4
+PANYALA MAHATHI REDDY
+student id 700743307
